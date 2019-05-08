@@ -1,2 +1,2 @@
-# passostrpt
+# jnpassos
 Github Pages
